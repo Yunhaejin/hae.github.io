@@ -1,0 +1,37 @@
+﻿Dept_ID,Department,Region
+D01,DevOps,California
+D02,Admin,Nevada
+D03,Cloud Tech,Florida
+D04,Sales,Texas
+D05,Cloud Tech,New York
+D06,HR,New York
+D07,Sales,Florida
+D08,DevOps,Illinois
+D09,Finance,Texas
+D10,Admin,Illinois
+D11,Cloud Tech,Illinois
+D12,Sales,Illinois
+D13,Finance,Nevada
+D14,Admin,Texas
+D15,Cloud Tech,Nevada
+D16,Sales,New York
+D17,Finance,Florida
+D18,Admin,California
+D19,Finance,California
+D20,HR,Texas
+D21,HR,California
+D22,Sales,California
+D23,HR,Illinois
+D24,Admin,New York
+D25,Admin,Florida
+D26,HR,Florida
+D27,Sales,Nevada
+D28,Finance,New York
+D29,DevOps,Florida
+D30,DevOps,Texas
+D31,DevOps,New York
+D32,Finance,Illinois
+D33,Cloud Tech,California
+D34,Cloud Tech,Texas
+D35,DevOps,Nevada
+D36,HR,Nevada
